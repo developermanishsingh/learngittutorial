@@ -20,7 +20,7 @@ let employee={
         console.log(`student roll is ${this.rollcode}`);
     }
     };
-    let obj={};
+ 
 employee.Getdata();
 student.sub(50,49);
 add(20,30);
